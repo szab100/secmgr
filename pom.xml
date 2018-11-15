@@ -79,6 +79,7 @@
               <value>src/test/resources/logging.properties</value>
             </property>
           </systemProperties>
+          <useSystemClassLoader>false</useSystemClassLoader>
         </configuration>
       </plugin>
     </plugins>
